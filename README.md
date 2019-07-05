@@ -7,7 +7,7 @@
 
 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-mohamed-128142105/ "LinkedIn Profile")
 
-[Wuzzuf Profile](wuzzuf.net/me/Ahmed-Mohammed-34 "Wuzzuf Profile")
+[Wuzzuf Profile](https://wuzzuf.net/me/Ahmed-Mohammed-34 "Wuzzuf Profile")
 
 
 ## Introduction
