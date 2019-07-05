@@ -60,6 +60,23 @@ If Exit then program terminates, if Back then MainClass will be fired to select 
 
 [![User Interface](http://i64.tinypic.com/11j5etd.jpg "User Interface")](http://i64.tinypic.com/11j5etd.jpg "User Interface")
 
+## Project Features
+
+#### Load image
+[![Load Image](http://i65.tinypic.com/5b4hmf.jpg "Load Image")](http://i65.tinypic.com/5b4hmf.jpg "Load Image")
+
+#### Crop (Circle/Rectangle)
+[![Rectangular Crop](http://i67.tinypic.com/kdan3o.jpg "Rectangular Crop")](http://i67.tinypic.com/kdan3o.jpg "Rectangular Crop")
+[![Circular Crop](http://i64.tinypic.com/30j2qh3.jpg "Circular Crop")](http://i64.tinypic.com/30j2qh3.jpg "Circular Crop")
+#### Image Filter
+##### Light
+[![Light Filter](http://i63.tinypic.com/v5bbsj.jpg "Light Filter")](http://i63.tinypic.com/v5bbsj.jpg "Light Filter")
+##### Dark
+[![Dark Filter](http://i63.tinypic.com/4q3kg2.jpg "Dark Filter")](http://i63.tinypic.com/4q3kg2.jpg "Dark Filter")
+##### Blur
+[![Blur Filter](http://i65.tinypic.com/16kw3tw.jpg "Blur Filter")](http://i65.tinypic.com/16kw3tw.jpg "Blur Filter")
+##### Invert
+[![Invert Filter](http://i66.tinypic.com/2qs70cz.jpg "Invert Filter")](http://i66.tinypic.com/2qs70cz.jpg "Invert Filter")
 
 ## How to run
 
