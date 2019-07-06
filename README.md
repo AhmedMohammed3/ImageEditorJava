@@ -20,11 +20,8 @@ Image manipulation programs like Photoshop include various filters or transforma
 ## System Architecture and Design
 
 [![System Architecture](http://i64.tinypic.com/2a6ngog.jpg "System Architecture")](http://i64.tinypic.com/2a6ngog.jpg "System Architecture")
-
-
-
-
 ## Structure of the code
+
 [![Structure Of the Code](http://i66.tinypic.com/2cdzvd3.jpg "Structure Of the Code")](http://i66.tinypic.com/2cdzvd3.jpg "Structure Of the Code")
 #### Modules Names:
 - MainClass
@@ -48,7 +45,7 @@ Once program runs, MainClass is fired and in this point we have only 2 options:
 - Apply Filter
 - Crop Image
 
-If Exit then program terminates, if Back then MainClass will be fired to select another image, if Save then a save window appears to save the image after editing, Undo is to reset the current editing of the image, Redo is to reset what Undo have been done, Apply Filter fires FiltersClass to apply the filter that have been chosen from the Filter Combo Box to the image then ToolsClass is fired again to redraw the image with the filter, Crop Image fires ToolsClass to crop the image after firing ToolClass to draw the shape that have been chosen from the Tool Combo Box with the coordinates specified by a mouse drag then ToolsClass if fired again to redraw the cropped image.¬¬
+If Exit then program terminates, if Back then MainClass will be fired to select another image, if Save then a save window appears to save the image after editing, Undo is to reset the current editing of the image, Redo is to reset what Undo have been done, Apply Filter fires FiltersClass to apply the filter that have been chosen from the Filter Combo Box to the image then ToolsClass is fired again to redraw the image with the filter, Crop Image fires ToolsClass to crop the image after firing ToolClass to draw the shape that have been chosen from the Tool Combo Box with the coordinates specified by a mouse drag then ToolsClass if fired again to redraw the cropped image.
 
 ## User Interface
 
