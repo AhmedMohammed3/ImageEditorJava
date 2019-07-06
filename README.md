@@ -33,9 +33,12 @@ Image manipulation programs like Photoshop include various filters or transforma
 - FiltersClass
 
 Once program runs, MainClass is fired and in this point we have only 2 options:
+
 - Browse
 - Exit
+
  If Exit then program terminates; if Browse then an open window appears to select the required image from computer then ImageClass is fired after selecting the image to reconstruct the second frame and call ToolsClass to draw the image.
+ 
 **Now, we have 7 options:**
 - Exit
 - Back
@@ -44,6 +47,7 @@ Once program runs, MainClass is fired and in this point we have only 2 options:
 - Redo
 - Apply Filter
 - Crop Image
+
 If Exit then program terminates, if Back then MainClass will be fired to select another image, if Save then a save window appears to save the image after editing, Undo is to reset the current editing of the image, Redo is to reset what Undo have been done, Apply Filter fires FiltersClass to apply the filter that have been chosen from the Filter Combo Box to the image then ToolsClass is fired again to redraw the image with the filter, Crop Image fires ToolsClass to crop the image after firing ToolClass to draw the shape that have been chosen from the Tool Combo Box with the coordinates specified by a mouse drag then ToolsClass if fired again to redraw the cropped image.¬¬
 
 ## User Interface
