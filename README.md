@@ -64,17 +64,17 @@ If Exit then program terminates, if Back then MainClass will be fired to select 
 [![Load Image](Images/Features/1.jpg "Load Image")](Images/Features/1.jpg "Load Image")
 
 #### Crop (Circle/Rectangle)
-[![Rectangular Crop](Images/Features/2.jpg "Rectangular Crop")](Images/Features/2.jpg "Rectangular Crop")
-[![Circular Crop](Images/Features/3.jpg "Circular Crop")](Images/Features/3.jpg "Circular Crop")
+[![Rectangular Crop](Images/Features/2.JPG "Rectangular Crop")](Images/Features/2.JPG "Rectangular Crop")
+[![Circular Crop](Images/Features/3.JPG "Circular Crop")](Images/Features/3.JPG "Circular Crop")
 #### Image Filter
 ##### Light
-[![Light Filter](Images/Features/4.jpg "Light Filter")](Images/Features/4.jpg "Light Filter")
+[![Light Filter](Images/Features/4.JPG "Light Filter")](Images/Features/4.JPG "Light Filter")
 ##### Dark
-[![Dark Filter](Images/Features/5.jpg "Dark Filter")](Images/Features/5.jpg "Dark Filter")
+[![Dark Filter](Images/Features/5.JPG "Dark Filter")](Images/Features/5.JPG "Dark Filter")
 ##### Blur
-[![Blur Filter](Images/Features/6.jpg "Blur Filter")](Images/Features/6.jpg "Blur Filter")
+[![Blur Filter](Images/Features/6.JPG "Blur Filter")](Images/Features/6.JPG "Blur Filter")
 ##### Invert
-[![Invert Filter](Images/Features/7.jpg "Invert Filter")](Images/Features/7.jpg "Invert Filter")
+[![Invert Filter](Images/Features/7.JPG "Invert Filter")](Images/Features/7.JPG "Invert Filter")
 
 ## How to run
 
