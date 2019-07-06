@@ -51,14 +51,8 @@ If Exit then program terminates, if Back then MainClass will be fired to select 
 
 
 [![User Interface](Images/Usesr Interface/1.JPG "User Interface")](Images/Usesr Interface/1.JPG "User Interface")
-
-
 [![User Interface](Images/Usesr Interface/2.JPG "User Interface")](Images/Usesr Interface/2.JPG "User Interface")
-
-
 [![User Interface](Images/Usesr Interface/3.JPG "User Interface")](Images/Usesr Interface/3.JPG "User Interface")
-
-
 [![User Interface](Images/Usesr Interface/4.JPG "User Interface")](Images/Usesr Interface/4.JPG "User Interface")
 
 ## Project Features
