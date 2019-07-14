@@ -22,7 +22,7 @@ Image manipulation programs like Photoshop include various filters or transforma
 [![System Architecture](Images/ImageEditorArchitecture.jpg "System Architecture")](Images/ImageEditorArchitecture.jpg "System Architecture")
 ## Structure of the code
 
-[![Structure Of the Code](Images/ImageEditorcodestructures.jpg "Structure Of the Code")](http://i66.tinypic.com/2cdzvd3.jpg "Structure Of the Code")
+[![Structure of the code](Images/ImageEditorcodestructures.jpg "Structure of the code")](Images/ImageEditorcodestructures.jpg "Structure of the code")
 #### Modules Names:
 - MainClass
 - ImageClass
